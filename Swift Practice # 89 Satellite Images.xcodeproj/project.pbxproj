@@ -13,6 +13,7 @@
 		2D851102270EC24700A32BF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D851100270EC24700A32BF0 /* Main.storyboard */; };
 		2D851104270EC24700A32BF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D851103270EC24700A32BF0 /* Assets.xcassets */; };
 		2D851107270EC24700A32BF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D851105270EC24700A32BF0 /* LaunchScreen.storyboard */; };
+		2D85110F270ED8B800A32BF0 /* CWB JSON Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D85110E270ED8B800A32BF0 /* CWB JSON Type.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2D851103270EC24700A32BF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D851106270EC24700A32BF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D851108270EC24700A32BF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D85110E270ED8B800A32BF0 /* CWB JSON Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CWB JSON Type.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2D8510FA270EC24700A32BF0 /* AppDelegate.swift */,
 				2D8510FC270EC24700A32BF0 /* SceneDelegate.swift */,
 				2D8510FE270EC24700A32BF0 /* ViewController.swift */,
+				2D85110E270ED8B800A32BF0 /* CWB JSON Type.swift */,
 				2D851100270EC24700A32BF0 /* Main.storyboard */,
 				2D851103270EC24700A32BF0 /* Assets.xcassets */,
 				2D851105270EC24700A32BF0 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				2D8510FF270EC24700A32BF0 /* ViewController.swift in Sources */,
 				2D8510FB270EC24700A32BF0 /* AppDelegate.swift in Sources */,
+				2D85110F270ED8B800A32BF0 /* CWB JSON Type.swift in Sources */,
 				2D8510FD270EC24700A32BF0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
